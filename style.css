@@ -1,0 +1,57 @@
+body {
+    background-color: FCE9F1;
+    margin: auto;
+}
+
+#myimage {
+
+    width: 300;
+    height: 300;
+    justify-content: left;
+    margin: 10px;
+
+}
+
+#header_style {
+    display: flex;
+    width: 100%;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+
+#title {
+    font-family: 'Arapey', serif;
+    margin-top: 200px;
+    margin-bottom: 5px;
+    font-size: 80px;
+    color: 213555;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 10px;
+    color: 213555;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    margin: 70px;
+    margin-top: 10px;
+    justify-content: center;
+}
+
+ul li {
+    margin: 50px;
+}
+
+ul li a {
+    font-family: 'Courier New', Courier, monospace;
+    color: 213555;
+    text-decoration: none;
+}
